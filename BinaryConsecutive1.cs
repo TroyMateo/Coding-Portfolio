@@ -56,4 +56,4 @@ namespace BinaryConverter2
 //Consec1: 3
 //Input: 256
 //Binary: 10000000
-//Consec1: 1
+//Consec1: 1 
